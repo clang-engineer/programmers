@@ -17,4 +17,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 # subdirectories
 add_subdirectory(app)
 add_subdirectory(lib)
-
+add_subdirectory(tests)
