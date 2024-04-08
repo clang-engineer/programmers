@@ -1,12 +1,5 @@
 #include <iostream>
-#include <vector>
 #include "custom-lib.h"
-
-class Solution {
-	public:
-		void answer() {
-		}
-};
 
 int main()
 {
